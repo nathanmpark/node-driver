@@ -1,0 +1,22 @@
+{
+  "name": "node-driver",
+  "version": "1.0.0",
+  "description": "example node driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanmpark/node-driver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanmpark/node-driver/issues"
+  },
+  "homepage": "https://github.com/nathanmpark/node-driver#readme",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  }
+}
